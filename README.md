@@ -1,6 +1,6 @@
 # keytr.org
 
-Marketing site and primary WebAuthn passkey gateway for [keytr](https://github.com/sovITxyz/keytr). Hosted on Cloudflare Pages.
+Marketing site and primary WebAuthn passkey gateway for [keytr](https://github.com/SovereignTechnology/keytr). Hosted on Cloudflare Pages.
 
 ## What this is
 
@@ -17,9 +17,9 @@ To add your Nostr client as an authorized origin, open a PR adding your domain t
 
 ## Related
 
-- [keytr](https://github.com/sovITxyz/keytr) — the library (`@sovit.xyz/keytr` on npm)
-- [nostkey.org](https://github.com/sovITxyz/nostkey.org) — alternative gateway on Hostinger
-- [NIP-K1](https://github.com/sovITxyz/keytr/blob/main/nip/nip-k1.md) — the protocol spec
+- [keytr](https://github.com/SovereignTechnology/keytr) — the library (`@sovit.xyz/keytr` on npm)
+- [nostkey.org](https://github.com/nostkey/nostkey.org) — alternative gateway on Hostinger
+- [NIP-K1](https://github.com/SovereignTechnology/keytr/blob/main/nip/nip-k1.md) — the protocol spec
 
 ## License
 
